@@ -7,6 +7,6 @@ Stanford dependence tree visualization: https://mkytap.github.io/dependenceTree/
 
 SandBox: https://mkytap.github.io/dependenceTree/sandbox
 
-
+Source
 ================================================
-Source: <http://spyysalo.github.io/annodoc>
+Home page: <http://spyysalo.github.io/annodoc>
